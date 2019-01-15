@@ -11,30 +11,15 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-          <a
-            className="App-link"
+          <a className="App-link"
             href="https://reactjs.org"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Teste
-          </a>
+            Quero Jogar
+          </a>                   
         </header>
       </div>
     );
   }
-
-
-
-
-}
-
-
-class Menu extends Component {
-  render(){
-    return ()
-  }
-}
-export default Menu;
-
-export default App;
+}export default App;
