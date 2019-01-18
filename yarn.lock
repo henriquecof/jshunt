@@ -1403,6 +1403,11 @@ atob@^2.1.1:
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
 
+autobind-decorator@^2.1.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/autobind-decorator/-/autobind-decorator-2.4.0.tgz#ea9e1c98708cf3b5b356f7cf9f10f265ff18239c"
+  integrity sha512-OGYhWUO72V6DafbF8PM8rm3EPbfuyMZcJhtm5/n26IDwO18pohE4eNazLoCGhPiXOCD0gEGmrbU3849QvM8bbw==
+
 autoprefixer@^9.3.1:
   version "9.4.5"
   resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-9.4.5.tgz#a13ccb001e4bc8837f71c3354005b42f02cc03d7"
@@ -8653,6 +8658,14 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
   integrity sha1-tf3AjxKH6hF4Yo5BXiUTK3NkbG0=
+
+simple-react-form@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/simple-react-form/-/simple-react-form-2.2.1.tgz#6d6611780d441ce3981ce7ffc298720d09029735"
+  integrity sha512-3/EcrrcnVZ/6c9Z5Qg5D4yTlLU5620oeRj0v+H9gO42s/TT+PAkwl7GzmWvQZYqZc+eLMqDPXyc/AR7EsDyI3Q==
+  dependencies:
+    autobind-decorator "^2.1.0"
+    lodash "^4.17.11"
 
 simple-swizzle@^0.2.2:
   version "0.2.2"
