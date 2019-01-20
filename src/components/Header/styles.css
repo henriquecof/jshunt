@@ -3,7 +3,7 @@ header#main-header{
     height: 60px;
     background: #da552f;
     font-size: 18px;
-    font-weight: #fff;
+    font-weight: rgb(236, 12, 12);
     display: flex;
     justify-content: center;
     align-items: center;
